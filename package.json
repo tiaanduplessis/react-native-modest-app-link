@@ -10,10 +10,8 @@
   "homepage": "https://github.com/tiaanduplessis/react-native-modest-app-link",
   "bugs": "https://github.com/tiaanduplessis/react-native-modest-app-link",
   "main": "index.js",
-   
-  "files": [
-    "index.js"
-  ],
+
+  "files": ["index.js"],
   "scripts": {
     "test": "echo 'nope'",
     "lint": "standard index.js",
@@ -26,8 +24,8 @@
   },
   "author": "tiaanduplessis <tiaanduplessis@hotmail.com>",
   "devDependencies": {
-    "standard": "^10.0.2", 
-    "husky": "^0.13.3",
-    "prettier": "~1.3.1"
+    "standard": "^10.0.2",
+    "husky": "^0.14.3",
+    "prettier": "~1.5.2"
   }
 }
