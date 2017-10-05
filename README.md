@@ -56,6 +56,8 @@
 
 ## About
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/react-native-modest-app-link.svg)](https://greenkeeper.io/)
+
 Wrapper around [React Native Linking](https://facebook.github.io/react-native/docs/linking.html) API to try and open other app. If unsuccessful it falls back to the Play Store or App Store respectively.
 
 
